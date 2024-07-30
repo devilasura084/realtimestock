@@ -1,4 +1,4 @@
-# Invoice Management System
+# REAL TIME STOCKS
 ## Project Description
 This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application includes user authentication, a dashboard with basic analytics, CRUD operations for managing invoices, and PDF generation for invoices.
 
