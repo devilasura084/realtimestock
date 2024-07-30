@@ -1,6 +1,6 @@
 # REAL TIME STOCKS
 ## Project Description
-This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application includes user authentication, a dashboard with basic analytics, CRUD operations for managing invoices, and PDF generation for invoices.
+This is a full-stack web application built using  ( Express.js, React.js, Node.js). The application includes a graph that shows the stock prices ,the volume for a preset amount of stocks as well as has a search option for other stocks
 
 ## Technologies Used
 - Express
